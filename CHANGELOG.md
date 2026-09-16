@@ -12,3 +12,7 @@
 ## 2026-09-16 (partia 2)
 - Dodano 7 aktów (md + raw): KZN t.j. 2025/834; Mieszkanie na Start t.j. 2024/506; dodatki mieszkaniowe t.j. 2023/1335; termomodernizacja t.j. 2024/1446; specustawa mieszkaniowa t.j. 2024/195; ustawa 2025/413 (limity); ustawa 2026/39 (spółdzielnie/SIM/KZN).
 - INDEX.csv: wiersze 003, 006, 009, 010 → `pobrany`; 007 (specustawa) → `do weryfikacji` (status obowiązywania); 011 → `do weryfikacji`; dodano 089, 090.
+
+## 2026-09-16 (partia 3a — domknięcie 01-ustawy-rdzeniowe)
+- Dodano: „lokal za grunt” t.j. 2023/1525; pakiet mieszkaniowy 2021/11 (ustawa z 10.12.2020).
+- INDEX.csv: wiersze 004, 005 → `pobrany`. W katalogu 01 pozostają tylko 007 (specustawa — status obowiązywania) i 011 (akty zmieniające 2023–2024) ze statusem `do weryfikacji`.
