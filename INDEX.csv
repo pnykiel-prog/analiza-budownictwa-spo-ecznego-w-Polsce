@@ -1,0 +1,88 @@
+id;kategoria;typ;tytul;organ;data_aktu;dzu_lub_sygnatura;data_wersji;url_zrodlo;data_pobrania;sciezka_md;sciezka_raw;status;pewnosc_metadanych;tagi;uwagi
+001;01-ustawy-rdzeniowe;ustawa;Ustawa o społecznych formach rozwoju mieszkalnictwa (dawniej: o niektórych formach popierania budownictwa mieszkaniowego);Sejm RP;1995-10-26;Dz.U. 1995 nr 133 poz. 654;;;;;;do pobrania;z pamieci;"SIM;TBS;partycypacja;czynsz;SBC";Fundament bazy. Pobrać tekst jednolity + listę aktów zmieniających 2020-2026
+002;01-ustawy-rdzeniowe;ustawa;Ustawa o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Fundusz Dopłat);Sejm RP;2006-12-08;Dz.U. 2006 nr 251 poz. 1844;;;;;;do pobrania;z pamieci;"Fundusz Doplat;gmina;komunalne";Tytuł mógł zostać zmieniony nowelizacjami — potwierdzić
+003;01-ustawy-rdzeniowe;ustawa;Ustawa o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania (Mieszkanie na Start);Sejm RP;2018-07-20;;;;;;;do pobrania;z pamieci;"Mieszkanie na Start;doplaty do czynszu";
+004;01-ustawy-rdzeniowe;ustawa;Ustawa o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (pakiet SIM/RFRM);Sejm RP;2020-12-10;;;;;;;do pobrania;z pamieci;"SIM;RFRM;nowelizacja";Akt zmieniający — istotny dla historii zmian TBS→SIM
+005;01-ustawy-rdzeniowe;ustawa;Ustawa o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (lokal za grunt);Sejm RP;2020-12-16;;;;;;;do pobrania;z pamieci;"lokal za grunt;grunt gminy";
+006;01-ustawy-rdzeniowe;ustawa;Ustawa o Krajowym Zasobie Nieruchomości;Sejm RP;2017-07-20;Dz.U. 2017 poz. 1529;;;;;;do pobrania;z pamieci;"KZN;SIM KZN;najem instytucjonalny";
+007;01-ustawy-rdzeniowe;ustawa;Ustawa o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (specustawa mieszkaniowa);Sejm RP;2018-07-05;;;;;;;do pobrania;z pamieci;"specustawa;lokalizacja";SPRAWDZIĆ czy obowiązuje i do kiedy — akt epizodyczny
+008;01-ustawy-rdzeniowe;ustawa;Ustawa o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego;Sejm RP;2001-06-21;Dz.U. 2001 nr 71 poz. 733;;;;;;do pobrania;z pamieci;"najem;zasob gminy;najem socjalny;RTB;najem instytucjonalny";
+009;01-ustawy-rdzeniowe;ustawa;Ustawa o dodatkach mieszkaniowych;Sejm RP;2001-06-21;Dz.U. 2001 nr 71 poz. 734;;;;;;do pobrania;z pamieci;"dodatki mieszkaniowe;najemcy";
+010;01-ustawy-rdzeniowe;ustawa;Ustawa o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków;Sejm RP;2008-11-21;;;;;;;do pobrania;z pamieci;"termomodernizacja;premia;BGK";
+011;01-ustawy-rdzeniowe;ustawa;Akty zmieniające ustawę o SIM z lat 2023-2026;Sejm RP;;;;;;;;do pobrania;z pamieci;"nowelizacja;SIM";LUKA — pobrać z ISAP listę aktów zmieniających, nie odtwarzać z pamięci
+012;02-ustawy-posrednie;ustawa;Prawo budowlane;Sejm RP;1994-07-07;Dz.U. 1994 nr 89 poz. 414;;;;;;do pobrania;z pamieci;proces inwestycyjny;
+013;02-ustawy-posrednie;ustawa;Ustawa o planowaniu i zagospodarowaniu przestrzennym;Sejm RP;2003-03-27;Dz.U. 2003 nr 80 poz. 717;;;;;;do pobrania;z pamieci;"MPZP;plan ogolny;lokalizacja";Wraz z nowelizacją 2023 (plan ogólny) — sprawdzić terminy przejściowe
+014;02-ustawy-posrednie;ustawa;Ustawa o gospodarce nieruchomościami;Sejm RP;1997-08-21;Dz.U. 1997 nr 115 poz. 741;;;;;;do pobrania;z pamieci;"aport;bonifikata;wycena;uzytkowanie wieczyste";
+015;02-ustawy-posrednie;ustawa;Ustawa o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności;Sejm RP;2018-07-20;;;;;;;do pobrania;z pamieci;uzytkowanie wieczyste;
+016;02-ustawy-posrednie;ustawa;Ustawa o charakterystyce energetycznej budynków;Sejm RP;2014-08-29;;;;;;;do pobrania;z pamieci;"energia;swiadectwo";
+017;02-ustawy-posrednie;ustawa;Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami;Sejm RP;2019-07-19;;;;;;;do pobrania;z pamieci;"dostepnosc;seniorzy";
+018;02-ustawy-posrednie;ustawa;Ustawa o księgach wieczystych i hipotece;Sejm RP;1982-07-06;;;;;;;do pobrania;z pamieci;"hipoteka;zabezpieczenie BGK";
+019;02-ustawy-posrednie;ustawa;Ustawa o własności lokali;Sejm RP;1994-06-24;;;;;;;do pobrania;z pamieci;"wlasnosc lokali;wspolnota";
+020;02-ustawy-posrednie;ustawa;Ustawa o spółdzielniach mieszkaniowych;Sejm RP;2000-12-15;;;;;;;do pobrania;z pamieci;spoldzielnia;
+021;02-ustawy-posrednie;ustawa;Prawo spółdzielcze;Sejm RP;1982-09-16;;;;;;;do pobrania;z pamieci;spoldzielnia;
+022;02-ustawy-posrednie;ustawa;Kodeks spółek handlowych;Sejm RP;2000-09-15;;;;;;;do pobrania;z pamieci;"SIM sp. z o.o.;PSA";
+023;02-ustawy-posrednie;ustawa;Kodeks cywilny — tytuł XVII najem;Sejm RP;1964-04-23;;;;;;;do pobrania;z pamieci;najem;Pobrać cały KC, w .md wyodrębnić najem
+024;02-ustawy-posrednie;ustawa;Ustawa o samorządzie gminnym;Sejm RP;1990-03-08;;;;;;;do pobrania;z pamieci;"gmina;uchwaly";
+025;02-ustawy-posrednie;ustawa;Ustawa o samorządzie powiatowym;Sejm RP;1998-06-05;;;;;;;do pobrania;z pamieci;powiat;
+026;02-ustawy-posrednie;ustawa;Ustawa o gospodarce komunalnej;Sejm RP;1996-12-20;;;;;;;do pobrania;z pamieci;spolka gminna;
+027;02-ustawy-posrednie;ustawa;Ustawa o finansach publicznych;Sejm RP;2009-08-27;;;;;;;do pobrania;z pamieci;"dlug;poreczenia;WPF";
+028;02-ustawy-posrednie;ustawa;Prawo zamówień publicznych;Sejm RP;2019-09-11;;;;;;;do pobrania;z pamieci;"PZP;przetarg";
+029;02-ustawy-posrednie;ustawa;Ustawa o partnerstwie publiczno-prywatnym;Sejm RP;2008-12-19;;;;;;;do pobrania;z pamieci;PPP;
+030;02-ustawy-posrednie;ustawa;Ustawa o umowie koncesji na roboty budowlane lub usługi;Sejm RP;2016-10-21;;;;;;;do pobrania;z pamieci;"koncesja;PPP";
+031;02-ustawy-posrednie;ustawa;Ustawa o postępowaniu w sprawach dotyczących pomocy publicznej;Sejm RP;2004-04-30;;;;;;;do pobrania;z pamieci;"pomoc publiczna;SGEI";
+032;02-ustawy-posrednie;ustawa;Decyzja Komisji (UE) 2025/2630 — SGEI mieszkalnictwo;Sejm RP;2025;Dz.Urz. UE;;;;;;do pobrania;z pamieci;"SGEI;pomoc publiczna;UE";"Źródło: EUR-Lex; już cytowana w raporcie DE/CZ"
+033;02-ustawy-posrednie;ustawa;Ustawa o Banku Gospodarstwa Krajowego;Sejm RP;2003-03-14;;;;;;;do pobrania;z pamieci;BGK;
+034;02-ustawy-posrednie;ustawa;Ustawa o podatku od towarów i usług;Sejm RP;2004-03-11;;;;;;;do pobrania;z pamieci;"VAT;spoleczny program mieszkaniowy";W .md wyodrębnić przepisy o budownictwie objętym społecznym programem mieszkaniowym
+035;02-ustawy-posrednie;ustawa;Ustawa o podatku dochodowym od osób prawnych;Sejm RP;1992-02-15;;;;;;;do pobrania;z pamieci;"CIT;zwolnienie TBS";Sprawdzić aktualne zwolnienie dla SIM/TBS
+036;02-ustawy-posrednie;ustawa;Ustawa o podatkach i opłatach lokalnych;Sejm RP;1991-01-12;;;;;;;do pobrania;z pamieci;"podatek od nieruchomosci;zwolnienie uchwalowe";
+037;02-ustawy-posrednie;ustawa;Ustawa o podatku od czynności cywilnoprawnych;Sejm RP;2000-09-09;;;;;;;do pobrania;z pamieci;"PCC;aport";
+038;02-ustawy-posrednie;ustawa;Ustawa o pomocy społecznej;Sejm RP;2004-03-12;;;;;;;do pobrania;z pamieci;"mieszkania treningowe;wspomagane;seniorzy";
+039;02-ustawy-posrednie;ustawa;Ustawa o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych;Sejm RP;1997-08-27;;;;;;;do pobrania;z pamieci;"PFRON;dostepnosc";
+040;03-rozporzadzenia;rozp;Rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie;Minister Infrastruktury;2002-04-12;;;;;;;do pobrania;z pamieci;warunki techniczne;Wielokrotnie zmieniane — tekst jednolity
+041;03-rozporzadzenia;rozp;Rozporządzenie w sprawie warunków i trybu finansowania zwrotnego w ramach programu popierania budownictwa mieszkaniowego (SBC);Rada Ministrów (?);2015 (?);;;;;;;do pobrania;z pamieci;"SBC;BGK";Organ i data do potwierdzenia
+042;03-rozporzadzenia;rozp;Rozporządzenie w sprawie finansowego wsparcia — wniosek do Funduszu Dopłat;MRiT (?);;;;;;;;do pobrania;z pamieci;"Fundusz Doplat;wniosek";Tytuł i data do ustalenia w ISAP
+043;03-rozporzadzenia;rozp;Rozporządzenie w sprawie określenia metod i podstaw sporządzania kosztorysu inwestorskiego;MRiT;2021-12-20;;;;;;;do pobrania;z pamieci;kosztorys;
+044;03-rozporzadzenia;rozp;Rozporządzenie w sprawie szczegółowego zakresu i formy dokumentacji projektowej, STWiORB oraz PFU;MRiT;;;;;;;;do pobrania;z pamieci;"PFU;dokumentacja";
+045;03-rozporzadzenia;rozp;Rozporządzenie w sprawie mieszkań treningowych i wspomaganych;MRPiPS;;;;;;;;do pobrania;z pamieci;"mieszkania wspomagane;standardy";
+046;03-rozporzadzenia;obwieszczenie;Obwieszczenia wojewodów o wskaźniku przeliczeniowym kosztu odtworzenia 1 m² powierzchni użytkowej budynków mieszkalnych — 16 województw, aktualne półrocze;Wojewodowie;;;;;;;;do pobrania;z pamieci;"wskaznik odtworzeniowy;limit czynszu";"Jeden plik na województwo; aktualizować co półrocze"
+047;04-bgk/sbc-finansowanie-zwrotne;bgk;Społeczne Budownictwo Czynszowe — finansowanie zwrotne: strona programu (zapis z datą);BGK;;;;;;;;do pobrania;z pamieci;"Społeczne;sbc-finansowanie-zwrotne";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+048;04-bgk/sbc-finansowanie-zwrotne;bgk;Społeczne Budownictwo Czynszowe — finansowanie zwrotne: regulamin / warunki naboru;BGK;;;;;;;;do pobrania;z pamieci;"Społeczne;sbc-finansowanie-zwrotne";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+049;04-bgk/sbc-finansowanie-zwrotne;bgk;Społeczne Budownictwo Czynszowe — finansowanie zwrotne: wzór wniosku i lista załączników;BGK;;;;;;;;do pobrania;z pamieci;"Społeczne;sbc-finansowanie-zwrotne";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+050;04-bgk/sbc-finansowanie-zwrotne;bgk;Społeczne Budownictwo Czynszowe — finansowanie zwrotne: wzór umowy (jeśli publikowany);BGK;;;;;;;;do pobrania;z pamieci;"Społeczne;sbc-finansowanie-zwrotne";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+051;04-bgk/sbc-finansowanie-zwrotne;bgk;Społeczne Budownictwo Czynszowe — finansowanie zwrotne: komunikaty o naborach i harmonogram;BGK;;;;;;;;do pobrania;z pamieci;"Społeczne;sbc-finansowanie-zwrotne";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+052;04-bgk/sbc-finansowanie-zwrotne;bgk;Społeczne Budownictwo Czynszowe — finansowanie zwrotne: zestawienie udzielonego wsparcia / lista beneficjentów;BGK;;;;;;;;do pobrania;z pamieci;"Społeczne;sbc-finansowanie-zwrotne";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+053;04-bgk/fundusz-doplat;bgk;Fundusz Dopłat: strona programu (zapis z datą);BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;fundusz-doplat";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+054;04-bgk/fundusz-doplat;bgk;Fundusz Dopłat: regulamin / warunki naboru;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;fundusz-doplat";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+055;04-bgk/fundusz-doplat;bgk;Fundusz Dopłat: wzór wniosku i lista załączników;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;fundusz-doplat";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+056;04-bgk/fundusz-doplat;bgk;Fundusz Dopłat: wzór umowy (jeśli publikowany);BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;fundusz-doplat";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+057;04-bgk/fundusz-doplat;bgk;Fundusz Dopłat: komunikaty o naborach i harmonogram;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;fundusz-doplat";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+058;04-bgk/fundusz-doplat;bgk;Fundusz Dopłat: zestawienie udzielonego wsparcia / lista beneficjentów;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;fundusz-doplat";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+059;04-bgk/rfrm;bgk;Rządowy Fundusz Rozwoju Mieszkalnictwa: strona programu (zapis z datą);BGK;;;;;;;;do pobrania;z pamieci;"Rządowy;rfrm";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+060;04-bgk/rfrm;bgk;Rządowy Fundusz Rozwoju Mieszkalnictwa: regulamin / warunki naboru;BGK;;;;;;;;do pobrania;z pamieci;"Rządowy;rfrm";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+061;04-bgk/rfrm;bgk;Rządowy Fundusz Rozwoju Mieszkalnictwa: wzór wniosku i lista załączników;BGK;;;;;;;;do pobrania;z pamieci;"Rządowy;rfrm";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+062;04-bgk/rfrm;bgk;Rządowy Fundusz Rozwoju Mieszkalnictwa: wzór umowy (jeśli publikowany);BGK;;;;;;;;do pobrania;z pamieci;"Rządowy;rfrm";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+063;04-bgk/rfrm;bgk;Rządowy Fundusz Rozwoju Mieszkalnictwa: komunikaty o naborach i harmonogram;BGK;;;;;;;;do pobrania;z pamieci;"Rządowy;rfrm";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+064;04-bgk/rfrm;bgk;Rządowy Fundusz Rozwoju Mieszkalnictwa: zestawienie udzielonego wsparcia / lista beneficjentów;BGK;;;;;;;;do pobrania;z pamieci;"Rządowy;rfrm";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+065;04-bgk/termomodernizacja;bgk;Fundusz Termomodernizacji i Remontów: strona programu (zapis z datą);BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;termomodernizacja";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+066;04-bgk/termomodernizacja;bgk;Fundusz Termomodernizacji i Remontów: regulamin / warunki naboru;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;termomodernizacja";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+067;04-bgk/termomodernizacja;bgk;Fundusz Termomodernizacji i Remontów: wzór wniosku i lista załączników;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;termomodernizacja";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+068;04-bgk/termomodernizacja;bgk;Fundusz Termomodernizacji i Remontów: wzór umowy (jeśli publikowany);BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;termomodernizacja";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+069;04-bgk/termomodernizacja;bgk;Fundusz Termomodernizacji i Remontów: komunikaty o naborach i harmonogram;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;termomodernizacja";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+070;04-bgk/termomodernizacja;bgk;Fundusz Termomodernizacji i Remontów: zestawienie udzielonego wsparcia / lista beneficjentów;BGK;;;;;;;;do pobrania;z pamieci;"Fundusz;termomodernizacja";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+071;04-bgk/mieszkanie-na-start;bgk;Mieszkanie na Start — dopłaty do czynszu: strona programu (zapis z datą);BGK;;;;;;;;do pobrania;z pamieci;"Mieszkanie;mieszkanie-na-start";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+072;04-bgk/mieszkanie-na-start;bgk;Mieszkanie na Start — dopłaty do czynszu: regulamin / warunki naboru;BGK;;;;;;;;do pobrania;z pamieci;"Mieszkanie;mieszkanie-na-start";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+073;04-bgk/mieszkanie-na-start;bgk;Mieszkanie na Start — dopłaty do czynszu: wzór wniosku i lista załączników;BGK;;;;;;;;do pobrania;z pamieci;"Mieszkanie;mieszkanie-na-start";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+074;04-bgk/mieszkanie-na-start;bgk;Mieszkanie na Start — dopłaty do czynszu: wzór umowy (jeśli publikowany);BGK;;;;;;;;do pobrania;z pamieci;"Mieszkanie;mieszkanie-na-start";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+075;04-bgk/mieszkanie-na-start;bgk;Mieszkanie na Start — dopłaty do czynszu: komunikaty o naborach i harmonogram;BGK;;;;;;;;do pobrania;z pamieci;"Mieszkanie;mieszkanie-na-start";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+076;04-bgk/mieszkanie-na-start;bgk;Mieszkanie na Start — dopłaty do czynszu: zestawienie udzielonego wsparcia / lista beneficjentów;BGK;;;;;;;;do pobrania;z pamieci;"Mieszkanie;mieszkanie-na-start";Nazwa programu z pamięci — sprawdzić aktualną na bgk.pl
+077;04-bgk/inne;bgk;Nowe programy mieszkaniowe BGK/MRiT z lat 2025-2026;BGK / MRiT;;;;;;;;do pobrania;z pamieci;nowe programy;LUKA — sprawdzić, nie zakładać z pamięci
+078;04-bgk/inne;bgk;Raporty roczne BGK i sprawozdania z realizacji programów mieszkaniowych (3 ostatnie lata);BGK;;;;;;;;do pobrania;z pamieci;"statystyki;skala";
+079;05-instytucje/mrit;raport;Narodowy Program Mieszkaniowy i aktualizacje;MRiT;;;;;;;;do pobrania;z pamieci;"instytucje;mrit";
+080;05-instytucje/mrit;raport;Interpretacje i wzory dokumentów dla gmin dot. SIM;MRiT;;;;;;;;do pobrania;z pamieci;"instytucje;mrit";
+081;05-instytucje/kzn;raport;Sprawozdania z działalności KZN;KZN;;;;;;;;do pobrania;z pamieci;"instytucje;kzn";
+082;05-instytucje/kzn;raport;Lista SIM-ów z udziałem KZN i zasady przekazywania gruntów;KZN;;;;;;;;do pobrania;z pamieci;"instytucje;kzn";
+083;05-instytucje/nik;raport;Kontrole dot. SIM/TBS, Mieszkanie Plus, gospodarki zasobem gminnym;NIK;;;;;;;;do pobrania;z pamieci;"instytucje;nik";
+084;05-instytucje/gus;raport;"Budownictwo mieszkaniowe — roczniki; ceny 1 m²; zasoby mieszkaniowe";GUS;;;;;;;;do pobrania;z pamieci;"instytucje;gus";
+085;05-instytucje/uokik;raport;Materiały o pomocy publicznej w mieszkalnictwie i rekompensacie SGEI;UOKiK;;;;;;;;do pobrania;z pamieci;"instytucje;uokik";
+086;05-instytucje/rio;raport;Rozstrzygnięcia nadzorcze dot. uchwał o SIM i zasobie mieszkaniowym;RIO;;;;;;;;do pobrania;z pamieci;"instytucje;rio";
+087;08-porownawcze-DE-CZ;analiza;Finansowanie budownictwa społecznego przez prywatnego przedsiębiorcę w Czechach i Niemczech — raport analityczny;SLE / DivideYou;2026-09-08;;;;;;;do pobrania;z pamieci;"DE;CZ;UE;porownanie";Plik istnieje w projekcie Claude — skopiować do repo
