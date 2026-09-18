@@ -31,3 +31,10 @@
 - Oba akty sprawdzone przez użytkownika w ELI 18.09.2026: obowiązujące, bez aktów zmieniających po dacie t.j./ogłoszenia.
 - Tym samym komplet podstaw prawnych z wykazu kalkulatora `simprywatny` jest w bazie, z wyjątkiem Dz.U. 2026 poz. 986 (niepotwierdzone — pozycja 011).
 - INDEX.csv: 95 pozycji, 20 `pobrany`, 72 `do pobrania`, 2 `do weryfikacji`, 1 `archiwalny`.
+
+## 2026-09-18 (partia 6 — otwarcie 04-bgk: SBC)
+- Nowy katalog `04-bgk/sbc-finansowanie-zwrotne/`. Dodano 4 dokumenty BGK (md + raw): zrzut strony produktu Kredyt preferencyjny SBC (6 zakładek scalonych w jeden PDF, wiersz 047), Informator programu SBC aktualizacja 01/2025 (096), Poradnik kredytowy dla SIM z 6.02.2025 (097), Informator o gwarancji InvestEU (098).
+- INDEX.csv: 047 → `pobrany`; 048–051 pozostają `do pobrania`, ale w uwagach wpisano dokładne nazwy dokumentów widoczne w zakładce Dokumenty na bgk.pl (18.09.2026), do pobrania w kolejnej turze.
+- Ustalenie ze strony BGK: XXI (jesienna 2026) edycja SBC nie będzie prowadzona — środki wyczerpane. Oznacza to, że najbliższy nabór SBC zależy od decyzji ustawodawcy o limitach na 2027 r.
+- Uwaga: Informator SBC (01/2025) opisuje stan sprzed rozp. 2026/575 — przy parametrach naboru pierwszeństwo ma rozporządzenie.
+- INDEX.csv: 98 pozycji, 24 `pobrany`.
