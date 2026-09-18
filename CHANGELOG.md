@@ -38,3 +38,10 @@
 - Ustalenie ze strony BGK: XXI (jesienna 2026) edycja SBC nie będzie prowadzona — środki wyczerpane. Oznacza to, że najbliższy nabór SBC zależy od decyzji ustawodawcy o limitach na 2027 r.
 - Uwaga: Informator SBC (01/2025) opisuje stan sprzed rozp. 2026/575 — przy parametrach naboru pierwszeństwo ma rozporządzenie.
 - INDEX.csv: 98 pozycji, 24 `pobrany`.
+
+## 2026-09-18 (partia 6b — SBC: dokumenty z zakładki „Dokumenty”)
+- Dodano 7 dokumentów BGK do `04-bgk/sbc-finansowanie-zwrotne/`: Proces udzielania finansowania (048), Warunki współfinansowania kosztów i zasady podziału (099), Wymagania dot. standardu lokali (100), Ramowy wzór umowy kredytu dla decyzji od 1.12.2025 (050), Wzór umowy z gminą (.docx, 101), Wniosek edycja XX 2026 (.xlsm, 049), Wytyczne dla rzeczoznawców (102).
+- Formaty źródłowe inne niż PDF (.docx, .xlsm) zachowane w `raw/`; .md z .xlsm zawiera tylko arkusze WNIOSEK i oceny wiarygodności.
+- Większość dokumentów BGK nie ma daty w treści — w INDEX jako `data_wersji` przyjęto datę pobrania; przy każdym użyciu sprawdzić, czy na bgk.pl nie ma nowszej wersji.
+- Z listy na bgk.pl pozostają niepobrane: Załącznik do wniosku edycja XX, Formularz zmian do wniosku, Informacja o należnościach i przychodach, Biznes Plan, Formularz pomocy publicznej (od 1.05.2026), Wniosek o gwarancję InvestEU, wzór umowy dla decyzji do 30.11.2025.
+- INDEX.csv: 102 pozycje, 31 `pobrany`.
