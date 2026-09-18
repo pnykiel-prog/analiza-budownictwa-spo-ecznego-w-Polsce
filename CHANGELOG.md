@@ -45,3 +45,9 @@
 - Większość dokumentów BGK nie ma daty w treści — w INDEX jako `data_wersji` przyjęto datę pobrania; przy każdym użyciu sprawdzić, czy na bgk.pl nie ma nowszej wersji.
 - Z listy na bgk.pl pozostają niepobrane: Załącznik do wniosku edycja XX, Formularz zmian do wniosku, Informacja o należnościach i przychodach, Biznes Plan, Formularz pomocy publicznej (od 1.05.2026), Wniosek o gwarancję InvestEU, wzór umowy dla decyzji do 30.11.2025.
 - INDEX.csv: 102 pozycje, 31 `pobrany`.
+
+## 2026-09-18 (partia 7 — otwarcie 04-bgk: Fundusz Dopłat, zrzut strony)
+- Nowy katalog `04-bgk/fundusz-doplat/`. Dodano zrzut strony programu „Bezzwrotne wsparcie budownictwa z Funduszu Dopłat” (8 zakładek scalonych, 44 str., sekcje rozwijane rozwinięte; wiersz 053 → `pobrany`).
+- Dodano matrycę wysokości wsparcia z Funduszu Dopłat obowiązującą od 22.08.2025 (osobny PDF ze strony, wiersz 054 → `pobrany`). Ponieważ pdftotext zniekształca tę tabelę, .md jest transkrypcją do tabeli markdown wykonaną z rasteryzacji stron i sprawdzoną wzrokowo; w raw/ obok PDF leży arkusz .xlsx z tą samą transkrypcją. PDF pozostaje źródłem rozstrzygającym.
+- W uwagach 054, 055, 057 wpisano dokładne nazwy dokumentów i podstron z bgk.pl (18.09.2026) do pobrania w kolejnej turze.
+- INDEX.csv: 102 pozycje, 33 `pobrany`.
