@@ -25,3 +25,9 @@
 - INDEX.csv: 020, 033, 041, 042 → `pobrany`, metadane `zweryfikowane`; 002 → `archiwalny`; dodano 091–093. Stan: 93 pozycje, 18 `pobrany`, 72 `do pobrania`, 2 `do weryfikacji`, 1 `archiwalny`.
 - Uwaga metodyczna: t.j. rozp. 766 z 2021 r. nie zawiera zmian z 2024 i 2026 — przy cytowaniu § 4, § 5, § 7, § 8 i załącznika sprawdzić brzmienie w plikach 1732 i 575.
 - Z wykazu podstaw prawnych kalkulatora `simprywatny` (sierpień 2026) pozostają do potwierdzenia/pobrania: Dz.U. 2026 poz. 986 (nowelizacja u.s.f.r.m.? — niepotwierdzona w ELI), rozp. RM z 11.08.2004 o obliczaniu wartości pomocy publicznej (t.j. Dz.U. 2018 poz. 461), rozp. MIiR z 4.03.2019 o standardach dla FD (Dz.U. 2019 poz. 457) — to ostatnie jest przywołane wprost w zał. 1 pkt VI.S rozp. 1897.
+
+## 2026-09-18 (partia 5 — domknięcie podstaw rekompensaty UOIG)
+- Dodano 2 akty (md + raw) do `03-rozporzadzenia/`: rozp. MIiR z 4.03.2019 o standardach dla Funduszu Dopłat (Dz.U. 2019 poz. 457, nowy wiersz 094); rozp. RM z 11.08.2004 o obliczaniu wartości pomocy publicznej — t.j. Dz.U. 2018 poz. 461 (nowy wiersz 095).
+- Oba akty sprawdzone przez użytkownika w ELI 18.09.2026: obowiązujące, bez aktów zmieniających po dacie t.j./ogłoszenia.
+- Tym samym komplet podstaw prawnych z wykazu kalkulatora `simprywatny` jest w bazie, z wyjątkiem Dz.U. 2026 poz. 986 (niepotwierdzone — pozycja 011).
+- INDEX.csv: 95 pozycji, 20 `pobrany`, 72 `do pobrania`, 2 `do weryfikacji`, 1 `archiwalny`.
