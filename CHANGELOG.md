@@ -62,3 +62,11 @@
 - Ustalenia: środki na zasilenie Funduszu Dopłat — 2025: 1,92 mld zł (po podwyższeniu 22.08.2025); 2026: 4,13 mld zł (30.01.2026) → 4,15 mld zł (4.08.2026). W wykazie BIP na 2026 r. brak informacji nr 2 i 3.
 - Zasada dla list BIP: pobierane są najnowsze 2–3 listy + jedna referencyjna; wykaz wszystkich dostępnych jest w zrzucie podstrony.
 - INDEX.csv: 118 pozycji, 52 `pobrany`, 3 `do weryfikacji`.
+
+## 2026-09-19 (partia 8 — RFRM: fundusz zlikwidowany)
+- Nowy katalog `04-bgk/rfrm/`. Dodano zrzut strony funduszu (059) oraz plan finansowy na 2024 r. (119) i informację o realizacji planu za 2024 r. (120).
+- USTALENIE KLUCZOWE: Rządowy Fundusz Rozwoju Mieszkalnictwa uległ likwidacji 20.12.2024 z powodu wyczerpania środków (art. 33s u.s.f.r.m.). Wsparcie gmin na objęcie udziałów w SIM (10% kosztów inwestycji / do 3 mln zł na utworzenie SIM) nie jest już dostępne. To wyjaśnia odesłania w rozp. Dz.U. 2025 poz. 1897 do art. 33l „w brzmieniu obowiązującym 21.08.2025” — dotyczą rozliczeń wsparcia udzielonego przed likwidacją.
+- Korekta wcześniejszego przypuszczenia z CHANGELOG/uwag (że RFRM jest „wygaszany od 22.08.2025”): fundusz nie istnieje od grudnia 2024.
+- Pozycje 060–064 (regulamin, wniosek, umowa, komunikaty, lista beneficjentów RFRM) → `archiwalny` — nie będą pobierane.
+- Konsekwencja dla analiz montażu SIM: filar „udziały gminy z RFRM” należy z modeli usunąć lub zastąpić środkami własnymi gminy; do sprawdzenia w 077 (nowe programy 2025–2026), czy powstał instrument zastępczy.
+- INDEX.csv: 120 pozycji, 55 `pobrany`, 6 `archiwalny`.
