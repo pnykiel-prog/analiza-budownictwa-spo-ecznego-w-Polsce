@@ -78,3 +78,8 @@
 - Uwagi: PPP ma t.j. z 2022 r. — sprawdzić nowelizacje; u.g.n. ma wg ELI 1 nowelizację po t.j.
 - Pominięto: decyzja Wspólnego Komitetu EOG nr 21/2012 (nieistotna dla PL), artykuł MRiT „Klucz do mieszkania” i strona MRiT o RFRM (nieaktualna).
 - INDEX.csv: 121 pozycji, 64 `pobrany`, 4 `do weryfikacji`, 6 `archiwalny`.
+
+## 2026-09-19 (partia 10 — 02-ustawy-pośrednie: pakiet budowlano-samorządowy)
+- Dodano 8 ustaw do `02-ustawy-posrednie/` (md + raw, z ELI): Prawo budowlane t.j. 2026/524 (012), u.p.z.p. t.j. 2026/538 (013), KWiH t.j. 2026/1066 (018, stan prawny 21.07.2026 — najnowszy w bazie), KSH t.j. 2024/18 (022), samorząd gminny t.j. 2025/1153 (024), gospodarka komunalna t.j. 2021/679 (026), finanse publiczne t.j. 2025/1483 (027), Prawo spółdzielcze t.j. 2026/521 (021).
+- Akty ze starszym t.j., do sprawdzenia nowelizacji: KSH (12.2023), gospodarka komunalna (03.2021); dla samorządu gminnego i finansów publicznych znane zmiany po t.j. wpisano w `wersja`.
+- INDEX.csv: 121 pozycji, 72 `pobrany`, 39 `do pobrania`.
