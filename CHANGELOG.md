@@ -51,3 +51,14 @@
 - Dodano matrycę wysokości wsparcia z Funduszu Dopłat obowiązującą od 22.08.2025 (osobny PDF ze strony, wiersz 054 → `pobrany`). Ponieważ pdftotext zniekształca tę tabelę, .md jest transkrypcją do tabeli markdown wykonaną z rasteryzacji stron i sprawdzoną wzrokowo; w raw/ obok PDF leży arkusz .xlsx z tą samą transkrypcją. PDF pozostaje źródłem rozstrzygającym.
 - W uwagach 054, 055, 057 wpisano dokładne nazwy dokumentów i podstron z bgk.pl (18.09.2026) do pobrania w kolejnej turze.
 - INDEX.csv: 102 pozycje, 33 `pobrany`.
+
+## 2026-09-19 (partia 7b — Fundusz Dopłat: informatory, formularze, komunikaty BIP)
+- Dodano 19 dokumentów do `04-bgk/fundusz-doplat/` (md + raw; formularze .xlsx i pełnomocnictwo .docx zachowane w oryginale):
+  - informatory: Informator BSK (103), ulotka BSK (104), ulotka akademiki (105), aktualność o budżecie BSK 2025 (106);
+  - formularze (zakładka Wnioski/Formularze): wniosek o finansowe wsparcie v2 od 11.06.2026 (055), wniosek dla uczelni v2 (107), wniosek o aneks (108), formularz rozliczenia środki krajowe v3 (109), formularz rozliczenia krajowe+KPO v5 (110), zestawienie wykonawców KPO (111), wzór pełnomocnictwa (112);
+  - BIP: wykaz informacji o środkach (057) + informacje nr 4/2025, 1/2026, 4/2026 (113–115); wykaz list wniosków zakwalifikowanych (058) + listy nr 4/2025, 3/2026, 4/2026 (116–118).
+- W .md z formularzy .xlsx pominięto arkusze słownikowe (TERYT, N_S_O, Infrastruktura) i techniczne; oryginały kompletne w raw/.
+- 056 (wzór umowy o finansowe wsparcie) → `do weryfikacji`: BGK nie publikuje go na stronie.
+- Ustalenia: środki na zasilenie Funduszu Dopłat — 2025: 1,92 mld zł (po podwyższeniu 22.08.2025); 2026: 4,13 mld zł (30.01.2026) → 4,15 mld zł (4.08.2026). W wykazie BIP na 2026 r. brak informacji nr 2 i 3.
+- Zasada dla list BIP: pobierane są najnowsze 2–3 listy + jedna referencyjna; wykaz wszystkich dostępnych jest w zrzucie podstrony.
+- INDEX.csv: 118 pozycji, 52 `pobrany`, 3 `do weryfikacji`.
