@@ -70,3 +70,11 @@
 - Pozycje 060–064 (regulamin, wniosek, umowa, komunikaty, lista beneficjentów RFRM) → `archiwalny` — nie będą pobierane.
 - Konsekwencja dla analiz montażu SIM: filar „udziały gminy z RFRM” należy z modeli usunąć lub zastąpić środkami własnymi gminy; do sprawdzenia w 077 (nowe programy 2025–2026), czy powstał instrument zastępczy.
 - INDEX.csv: 120 pozycji, 55 `pobrany`, 6 `archiwalny`.
+
+## 2026-09-19 (partia 9 — 02-ustawy-pośrednie: pierwsza siódemka + decyzja SGEI; 077)
+- Dodano 7 ustaw do `02-ustawy-posrednie/` (md + raw, z ELI): gospodarka nieruchomościami t.j. 2026/399 (014), własność lokali t.j. 2026/232 (019), Kodeks cywilny t.j. 2026/795 (023), PZP t.j. 2026/793 (028), PPP t.j. 2023/30 (029), postępowanie ws. pomocy publicznej t.j. 2026/500 (031), PCC t.j. 2026/191 (037).
+- Dodano decyzję Komisji 2012/21/UE (SGEI) w wersji PL, z wersją EN w raw/ (nowy wiersz 121). Wiersz 032 („2025/2630”) → `do weryfikacji` — numer niepotwierdzony.
+- Dodano do `04-bgk/inne/` zrzut wykazu prac RM: projekt „Pierwsze klucze” (UA11) — WYCOFANY (077 → `pobrany`). Ustalenie: z pakietu „Klucz do mieszkania” (2025) zrealizowano tylko dosypanie środków do Funduszu Dopłat; następcy RFRM brak.
+- Uwagi: PPP ma t.j. z 2022 r. — sprawdzić nowelizacje; u.g.n. ma wg ELI 1 nowelizację po t.j.
+- Pominięto: decyzja Wspólnego Komitetu EOG nr 21/2012 (nieistotna dla PL), artykuł MRiT „Klucz do mieszkania” i strona MRiT o RFRM (nieaktualna).
+- INDEX.csv: 121 pozycji, 64 `pobrany`, 4 `do weryfikacji`, 6 `archiwalny`.
